@@ -5,7 +5,7 @@ public:
         int nxt=numRows+(numRows-2);
         string res;
         int j=0;
-        if(numRows==n){
+        if(numRows==n || numRows==1){
             return s;
         }
         for(int i=0;i<numRows;i++){
