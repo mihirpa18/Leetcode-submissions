@@ -6,7 +6,7 @@ public:
 
         int res=1;
         string num="";
-        while(num.size()<10000){
+        while(num.size()<k){
             num+='1';
             int rem=res%k;
             if(rem==0) return num.size();
