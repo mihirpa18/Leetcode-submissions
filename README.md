@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 <!---LeetCode Topics End-->
