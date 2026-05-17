@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -45,4 +46,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
