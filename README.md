@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
