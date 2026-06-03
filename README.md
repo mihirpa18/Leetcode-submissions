@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,11 +47,13 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 <!---LeetCode Topics End-->
