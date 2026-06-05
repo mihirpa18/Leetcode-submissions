@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
