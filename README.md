@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Array
