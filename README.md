@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1922-count-good-numbers](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1922-count-good-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
