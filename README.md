@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,8 +152,21 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
