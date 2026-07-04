@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0216-combination-sum-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Linked List
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0216-combination-sum-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1109-corporate-flight-bookings/) | Medium |
