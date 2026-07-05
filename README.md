@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
