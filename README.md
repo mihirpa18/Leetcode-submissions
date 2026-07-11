@@ -114,11 +114,13 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
@@ -190,5 +193,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
