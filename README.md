@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
