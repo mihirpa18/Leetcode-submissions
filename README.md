@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0216-combination-sum-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -204,4 +206,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
