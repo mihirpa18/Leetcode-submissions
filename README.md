@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -124,11 +125,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
@@ -204,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Indexed Tree
