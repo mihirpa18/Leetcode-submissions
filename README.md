@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
 | [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
