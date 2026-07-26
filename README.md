@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2050-parallel-courses-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1871-jump-game-vii/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -222,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
