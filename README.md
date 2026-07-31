@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -234,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2050-parallel-courses-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
