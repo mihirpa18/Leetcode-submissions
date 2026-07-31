@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Tree
@@ -188,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
