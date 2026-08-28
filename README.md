@@ -32,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
@@ -245,4 +248,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1115-print-foobar-alternately](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1115-print-foobar-alternately/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
