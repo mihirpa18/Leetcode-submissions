@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
+| [0146-lru-cache](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
 | [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0127-word-ladder/) | Hard |
+| [0146-lru-cache](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1048-longest-string-chain/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
@@ -256,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0148-sort-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
