@@ -263,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
