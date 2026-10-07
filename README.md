@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1345-jump-game-iv/) | Hard |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1340-jump-game-v/) | Hard |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0355-design-twitter/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mihirpa18/Leetcode-submissions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1094-car-pooling](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1094-car-pooling/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mihirpa18/Leetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mihirpa18/Leetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
